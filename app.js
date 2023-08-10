@@ -5,4 +5,4 @@ dotenv.config()
 
 const server = new Servidor()
 
-server.listen()
+server.listen();
